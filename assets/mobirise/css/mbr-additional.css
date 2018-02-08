@@ -1828,26 +1828,6 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qJ2C3eTPDj {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
-@media (min-width: 992px) {
-  .cid-qJ2C3eTPDj .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qJ2C3eTPDj .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qJ2C3eTPDj .mbr-text {
-    text-align: center;
-  }
-}
 .cid-qJ2CKBRTyy {
   background: #ffffff;
 }
